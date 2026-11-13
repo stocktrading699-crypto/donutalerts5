@@ -1,0 +1,8 @@
+{
+  "key.donutalerts.menu": "Open DonutAlerts menu",
+  "key.donutalerts.move": "Move alert boxes",
+  "key.donutalerts.auction": "Open auction menu",
+  "key.donutalerts.queue_menu": "Open gamble queue menu",
+  "key.donutalerts.queue_next": "Gamble queue: next person",
+  "category.donutalerts": "DonutAlerts"
+}
